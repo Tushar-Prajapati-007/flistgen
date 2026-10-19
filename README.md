@@ -5,7 +5,7 @@ A lightweight, standalone GUI utility that automatically parses, sorts, and sepa
 
 ## Why?
 
-Because life is too short to manually track module dependencies and maintain filelists for an Euclide-based project flow. `flistgen` automates the grunt work of compilation ordering so you can focus on actual RTL development and verification. 
+Because life is too short to manually track module dependencies and maintain filelists for an Euclide based(Yeah I'm a Synopsys User) project flow. `flistgen` automates the grunt work of compilation ordering so you can focus on actual RTL development and verification. 
 
 ## Features
 
