@@ -1,4 +1,4 @@
-# Used AI to Create this README :) cause don't wanna blabber
+
 # flistgen
 
 A lightweight, standalone GUI utility that automatically parses, sorts, and separates Verilog and SystemVerilog files into perfectly ordered compilation filelists (`rtl_filelist.f` and `tb_filelist.f`).
@@ -20,3 +20,5 @@ Because life is too short to manually track module dependencies and maintain fil
 2. **Make it executable** via your terminal:
    ```bash
    chmod +x ./flistgen
+   ```
+#### Note: Used AI to Create this README :) cause don't wanna blabber
