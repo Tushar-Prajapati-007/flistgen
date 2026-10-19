@@ -1,6 +1,9 @@
 # flistgen
 Reads *.v and *.sv files to create two filelist rtl_filelist.f and tb_filelist.f 
 
+# why?
+  Too lazy to create filelist for my project flow base on euclide
+
 ## usage 
 1. download the flistgen file
 2. change permision
